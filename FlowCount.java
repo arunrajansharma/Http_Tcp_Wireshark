@@ -1,4 +1,7 @@
-
+/*
+	This program counts the number of TCP flows in a Wireshark trace. 
+	Also, for each such flow, it prints the sequence number (Seq), Ack number etc.
+*/
 import java.util.HashMap;
 import java.util.*;
 
