@@ -1,3 +1,9 @@
+/*
+This program calculates the RTT (Round trip Time) and Loss rate
+
+*/
+
+
 import java.util.HashMap;
 import java.util.*;
 import java.util.List;
