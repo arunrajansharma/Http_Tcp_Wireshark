@@ -1,3 +1,9 @@
+/* Prints the first 5 Congestion window in a Wireshark trace. Also, it calculates the number of time 
+   re-transmission occurred due to Timeout and due to 3-ACK duplicate
+
+Author : Arun Rajan
+Stony Brook University
+*/
 
 
 import java.util.HashMap;
