@@ -1,3 +1,8 @@
+/*
+This program tries to find which of the flow is Http 1.0, Http 1.1 or Http 2.0
+*/
+
+
 import java.util.HashMap;
 import java.util.*;
 import java.util.List;
